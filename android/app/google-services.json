@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780662687779",
+    "project_id": "testform-c3f60",
+    "storage_bucket": "testform-c3f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780662687779:android:7a6f8eecd418c3a392c996",
+        "android_client_info": {
+          "package_name": "com.example.testform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780662687779-qp3qb17l8bbelrp507bt4lbdpb1is6fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtsKLkbBkD1jf0WMAVvvXVE06HbZRDFxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780662687779-qp3qb17l8bbelrp507bt4lbdpb1is6fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
